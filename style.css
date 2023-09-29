@@ -1,0 +1,41 @@
+*{
+    background-color: burlywood;
+    color: gold;
+    text-align: center;
+    font-family: 'fantasy',serif;
+}
+ul,ol{
+    list-style-position: inside;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    text-decoration: solid;
+    font-weight: 200;
+    font-size: 60px;
+}
+.recipe{
+font-size: 30px;
+background-color: saddlebrown;
+border: 5px solid;
+margin: auto;
+width: 50%;
+padding: 10px;
+border-radius: 10px; 
+}
+ul li, ol li{
+font-size: 20px;
+background-color: saddlebrown;
+
+margin: auto;
+width: 50%;
+padding: 10px;
+}
+.border{
+    border: 20px;
+    border-color: transparent;
+
+}
+h2{
+    color: saddlebrown;
+}
